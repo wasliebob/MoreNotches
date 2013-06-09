@@ -1,0 +1,19 @@
+[
+{
+  "modid": "MoreNotch",
+  "name": "More Notches",
+  "description": "More Notches add's a lot of new different Notches into youre minecraft",
+  "version": "1.5.0 S1a",
+  "credits": "Created by Wasliebob",
+  "logoFile": "/mods/MoreNotch/textures/logo/MoreNotches.png",
+  "mcversion": "1.5.2",
+  "url": "http://www.minecraftforum.net/topic/1787910-152-more-notches-mod-v140-hell-dimension-slender-notch-wither-notch-creeper-notch-butter-notch-squid-notch-god-notch-and-more/#entry22156853",
+  "updateUrl": "",
+  "authors": [ "Wasliebob" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+         "mod_MinecraftForge"
+]
+}
+]
